@@ -1,0 +1,200 @@
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: reading /tmp/resolv.conf.auto
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 189.7.40.48#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Apr 22 13:04:40 2024 dnsmasq[7556]: using nameserver 2804:14c:3f10:672:189:7:40:48#53

@@ -1,0 +1,614 @@
+{"level":30,"time":"2024-07-05T15:50:02.517Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Listening on 38995"}
+{"level":30,"time":"2024-07-05T15:50:02.620Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:02.621Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:02.633Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2024-07-05T15:50:03.248Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-07-05T15:50:03.248Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method newContext"}
+{"level":30,"time":"2024-07-05T15:50:03.249Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Trace file: "}
+{"level":30,"time":"2024-07-05T15:50:03.294Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Changed active context"}
+{"level":30,"time":"2024-07-05T15:50:03.307Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method newContext"}
+{"level":30,"time":"2024-07-05T15:50:03.317Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-07-05T15:50:04.609Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Video path: undefined"}
+{"level":30,"time":"2024-07-05T15:50:04.610Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Changed active page"}
+{"level":30,"time":"2024-07-05T15:50:05.973Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method newPage"}
+{"level":30,"time":"2024-07-05T15:50:05.991Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method goTo"}
+{"level":30,"time":"2024-07-05T15:50:06.501Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method goTo"}
+{"level":30,"time":"2024-07-05T15:50:06.512Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method waitUntilNetworkIsIdle"}
+{"level":30,"time":"2024-07-05T15:50:07.320Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method waitUntilNetworkIsIdle"}
+{"level":30,"time":"2024-07-05T15:50:07.326Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:07.326Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"root\"]/div[2]/div[2]/div/div/div/div/div/ul in page."}
+{"level":30,"time":"2024-07-05T15:50:07.426Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:07.432Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:07.432Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"root\"]/div[2]/div[2]/div/div/div/div/div/div/input in page."}
+{"level":30,"time":"2024-07-05T15:50:07.496Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:07.515Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:07.515Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"root\"]/div[2]/div[2]/div/div/div/div/div/ul/li[2]/div in page."}
+{"level":30,"time":"2024-07-05T15:50:07.576Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:07.598Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method typeText"}
+{"level":30,"time":"2024-07-05T15:50:07.598Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with id=login in page."}
+{"level":30,"time":"2024-07-05T15:50:07.740Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method typeText"}
+{"level":30,"time":"2024-07-05T15:50:07.745Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method typeText"}
+{"level":30,"time":"2024-07-05T15:50:07.745Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2024-07-05T15:50:08.016Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method typeText"}
+{"level":30,"time":"2024-07-05T15:50:08.025Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:08.025Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with id=submitBtn in page."}
+{"level":30,"time":"2024-07-05T15:50:08.118Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:08.124Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method waitUntilNetworkIsIdle"}
+{"level":30,"time":"2024-07-05T15:50:08.131Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method waitUntilNetworkIsIdle"}
+{"level":30,"time":"2024-07-05T15:50:08.141Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:08.141Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"sidebar-options-menu\"]/div[1]/div/div/div/div in page."}
+{"level":30,"time":"2024-07-05T15:50:08.399Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:08.413Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:08.413Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"sidebar-options-menu\"]/div[1]/div/div/div/div in page."}
+{"level":30,"time":"2024-07-05T15:50:08.665Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:08.686Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"sidebar-options-menu\"]/div[1]/div/div/div/div in page."}
+{"level":30,"time":"2024-07-05T15:50:08.868Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:08.887Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"sidebar-options-menu\"]/div[2]/div/div in page."}
+{"level":30,"time":"2024-07-05T15:50:08.974Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:08.985Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:08.985Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"sidebar-options-menu\"]/div[2]/ul/div[2]/p in page."}
+{"level":30,"time":"2024-07-05T15:50:09.239Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:09.258Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:09.258Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"sidebar-options-menu\"]/div[2]/ul/div[2]/p in page."}
+{"level":30,"time":"2024-07-05T15:50:09.519Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:09.537Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"sidebar-options-menu\"]/div[2]/ul/div[2]/p in page."}
+{"level":30,"time":"2024-07-05T15:50:09.788Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:09.803Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"sidebar-options-menu\"]/div[2]/ul/div[2]/p in page."}
+{"level":30,"time":"2024-07-05T15:50:10.054Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:10.072Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"sidebar-options-menu\"]/div[2]/ul/div[2]/p in page."}
+{"level":30,"time":"2024-07-05T15:50:10.324Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:10.335Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-07-05T15:50:10.336Z","pid":292640,"hostname":"Leonel-PC-Linux","Take screenshot with options: ":{"path":"/home/Leonel/Documents/morpheus-hypnos-v4/morpheus-hypnos/browser/screenshot/fail-screenshot-1.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-07-05T15:50:10.786Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-07-05T15:50:10.795Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:10.795Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"sidebar-options-menu\"]/div[2]/div/div in page."}
+{"level":30,"time":"2024-07-05T15:50:10.929Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:10.938Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"sidebar-options-menu\"]/div[2]/ul/div[2]/p in page."}
+{"level":30,"time":"2024-07-05T15:50:10.947Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-07-05T15:50:10.955Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:10.955Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"sidebar-options-menu\"]/div[2]/ul/div[2]/p in page."}
+{"level":30,"time":"2024-07-05T15:50:11.255Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:12.263Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method waitUntilNetworkIsIdle"}
+{"level":30,"time":"2024-07-05T15:50:12.265Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method waitUntilNetworkIsIdle"}
+{"level":30,"time":"2024-07-05T15:50:12.274Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-07-05T15:50:12.274Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"root\"]/div[3]/div/div[3]/button in page."}
+{"level":30,"time":"2024-07-05T15:50:12.372Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-07-05T15:50:12.379Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:12.390Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:12.400Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=card-inner-title in page."}
+{"level":30,"time":"2024-07-05T15:50:12.453Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element data-testid=card-inner-title containing Aviso"}
+{"level":30,"time":"2024-07-05T15:50:12.453Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:12.469Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=card-inner-text in page."}
+{"level":30,"time":"2024-07-05T15:50:12.511Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element data-testid=card-inner-text containing Esta funcionalidade está disponível apenas quando o modo de operação for roteador."}
+{"level":30,"time":"2024-07-05T15:50:12.511Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:12.521Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:12.521Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=close-button in page."}
+{"level":30,"time":"2024-07-05T15:50:12.620Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:12.626Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=close-button in page."}
+{"level":30,"time":"2024-07-05T15:50:12.626Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:12.765Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:12.810Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:12.816Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:12.833Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:12.839Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:12.858Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"sidebar-options-menu\"]/div[2]/div/div in page."}
+{"level":30,"time":"2024-07-05T15:50:12.935Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:12.963Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:12.964Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"sidebar-options-menu\"]/div[2]/ul/div[1]/p in page."}
+{"level":30,"time":"2024-07-05T15:50:13.027Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:13.040Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:13.040Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"sidebar-options-menu\"]/div[2]/ul/div[1]/p in page."}
+{"level":30,"time":"2024-07-05T15:50:13.138Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:19.145Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:19.146Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=opmode-select-dropdown in page."}
+{"level":30,"time":"2024-07-05T15:50:19.189Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:19.196Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:19.196Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=opmode-select-input in page."}
+{"level":30,"time":"2024-07-05T15:50:19.580Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:19.586Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElements"}
+{"level":30,"time":"2024-07-05T15:50:19.587Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is disabled, return Locator: css=[data-testid=\"opmode-select-dropdown\"] li in page."}
+{"level":30,"time":"2024-07-05T15:50:19.587Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Wait element to reach attached state."}
+{"level":30,"time":"2024-07-05T15:50:19.607Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Found 2 elements."}
+{"level":30,"time":"2024-07-05T15:50:19.607Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElements"}
+{"level":30,"time":"2024-07-05T15:50:19.615Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:19.615Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"opmode-select-dropdown\"] li >> nth=0 in page."}
+{"level":30,"time":"2024-07-05T15:50:19.637Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element css=[data-testid=\"opmode-select-dropdown\"] li >> nth=0 containing Bridge"}
+{"level":30,"time":"2024-07-05T15:50:19.638Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:19.647Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:19.647Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"opmode-select-dropdown\"] li >> nth=1 in page."}
+{"level":30,"time":"2024-07-05T15:50:19.680Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element css=[data-testid=\"opmode-select-dropdown\"] li >> nth=1 containing Roteador"}
+{"level":30,"time":"2024-07-05T15:50:19.680Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:19.687Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:19.687Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"opmode-select-dropdown\"] li >> nth=1 in page."}
+{"level":30,"time":"2024-07-05T15:50:19.762Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:19.772Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:19.772Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with [data-testid=\"opmode-select-dropdown\"] in page."}
+{"level":30,"time":"2024-07-05T15:50:19.815Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:19.837Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method evaluateJavascript"}
+{"level":30,"time":"2024-07-05T15:50:19.850Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method evaluateJavascript"}
+{"level":30,"time":"2024-07-05T15:50:19.887Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getByX"}
+{"level":30,"time":"2024-07-05T15:50:19.903Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getByX"}
+{"level":30,"time":"2024-07-05T15:50:19.907Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:19.907Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with internal:text=\"Salvar\"s in page."}
+{"level":30,"time":"2024-07-05T15:50:19.971Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:19.977Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:19.977Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with internal:text=\"Salvar\"s in page."}
+{"level":30,"time":"2024-07-05T15:50:20.041Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:20.047Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getByX"}
+{"level":30,"time":"2024-07-05T15:50:20.871Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getByX"}
+{"level":30,"time":"2024-07-05T15:50:20.891Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:20.896Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:20.916Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:20.931Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:20.988Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:20.992Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"sidebar-options-menu\"]/div[2]/div/div in page."}
+{"level":30,"time":"2024-07-05T15:50:21.107Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:21.131Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"sidebar-options-menu\"]/div[2]/ul/div[2]/p in page."}
+{"level":30,"time":"2024-07-05T15:50:21.208Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:21.235Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:21.236Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"sidebar-options-menu\"]/div[2]/ul/div[2]/p in page."}
+{"level":30,"time":"2024-07-05T15:50:21.343Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:22.348Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method waitUntilNetworkIsIdle"}
+{"level":30,"time":"2024-07-05T15:50:22.350Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method waitUntilNetworkIsIdle"}
+{"level":30,"time":"2024-07-05T15:50:22.359Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-07-05T15:50:22.359Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"root\"]/div[3]/div/div[3]/button in page."}
+{"level":30,"time":"2024-07-05T15:50:22.362Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-07-05T15:50:22.369Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:22.369Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=inner-title in page."}
+{"level":30,"time":"2024-07-05T15:50:22.394Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element data-testid=inner-title containing WAN"}
+{"level":30,"time":"2024-07-05T15:50:22.394Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:22.407Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:22.407Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-config-mode-select-title in page."}
+{"level":30,"time":"2024-07-05T15:50:22.446Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:22.460Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:22.461Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-config-mode-select in page."}
+{"level":30,"time":"2024-07-05T15:50:22.502Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element data-testid=ipv4-config-mode-select containing Cliente DHCP"}
+{"level":30,"time":"2024-07-05T15:50:22.509Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:22.521Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-mtu-input in page."}
+{"level":30,"time":"2024-07-05T15:50:22.583Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:22.591Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:22.591Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-config-mode-select-ul in page."}
+{"level":30,"time":"2024-07-05T15:50:22.654Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:22.663Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:22.663Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-config-mode-select in page."}
+{"level":30,"time":"2024-07-05T15:50:22.739Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:22.756Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is disabled, return Loc{"level":30,"time":"2024-07-05T15:50:22.756Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Wait element to reach attached state."}
+{"level":30,"time":"2024-07-05T15:50:22.769Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Found 3 elements."}
+{"level":30,"time":"2024-07-05T15:50:22.770Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElements"}
+{"level":30,"time":"2024-07-05T15:50:22.774Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:22.774Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv4-config-mode-select-ul\"] li >> nth=0 in page."}
+{"level":30,"time":"2024-07-05T15:50:22.805Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:22.811Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv4-config-mode-select-ul\"] li >> nth=0 in page."}
+{"level":30,"time":"2024-07-05T15:50:22.872Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:22.880Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:22.880Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with [data-testid=\"ipv4-config-mode-select-ul\"] in page."}
+{"level":30,"time":"2024-07-05T15:50:22.925Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:22.935Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-manual-ip-address-input-title in page."}
+{"level":30,"time":"2024-07-05T15:50:22.986Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element data-testid=ipv4-manual-ip-address-input-title containing Endereço IPv4"}
+{"level":30,"time":"2024-07-05T15:50:22.987Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:23.004Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:23.004Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-manual-ip-address-input in page."}
+{"level":30,"time":"2024-07-05T15:50:23.048Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:23.068Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-manual-ip-address-input in page."}
+{"level":30,"time":"2024-07-05T15:50:23.120Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:23.139Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-manual-netmask-input-title in page."}
+{"level":30,"time":"2024-07-05T15:50:23.170Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:23.180Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-manual-netmask-input in page."}
+{"level":30,"time":"2024-07-05T15:50:23.227Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:23.240Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-manual-netmask-input in page."}
+{"level":30,"time":"2024-07-05T15:50:23.336Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:23.349Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:23.349Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-manual-gateway-input-title in page."}
+{"level":30,"time":"2024-07-05T15:50:23.407Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element data-testid=ipv4-manual-gateway-input-title containing Gateway"}
+{"level":30,"time":"2024-07-05T15:50:23.415Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:23.424Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-manual-gateway-input in page."}
+{"level":30,"time":"2024-07-05T15:50:23.487Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element data-testid=ipv4-manual-gateway-input containing 192.168.0.254"}
+{"level":30,"time":"2024-07-05T15:50:23.487Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:23.504Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-manual-gateway-input in page."}
+{"level":30,"time":"2024-07-05T15:50:23.595Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:23.612Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:23.612Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-config-mode-select-ul in page."}
+{"level":30,"time":"2024-07-05T15:50:23.666Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:23.673Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:23.673Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-config-mode-select in page."}
+{"level":30,"time":"2024-07-05T15:50:23.740Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:23.751Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElements"}
+{"level":30,"time":"2024-07-05T15:50:23.751Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is disabled, return Locator: css=[data-testid=\"ipv4-config-mode-select-ul\"] li in page."}
+{"level":30,"time":"2024-07-05T15:50:23.751Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Wait element to reach attached state."}
+{"level":30,"time":"2024-07-05T15:50:23.765Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Found 3 elements."}
+{"level":30,"time":"2024-07-05T15:50:23.767Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElements"}
+{"level":30,"time":"2024-07-05T15:50:23.777Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv4-config-mode-select-ul\"] li >> nth=0 in page."}
+{"level":30,"time":"2024-07-05T15:50:23.807Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element css=[data-testid=\"ipv4-config-mode-select-ul\"] li >> nth=0 containing IP Estático"}
+{"level":30,"time":"2024-07-05T15:50:23.807Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:23.821Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv4-config-mode-select-ul\"] li >> nth=1 in page."}
+{"level":30,"time":"2024-07-05T15:50:23.871Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element css=[data-testid=\"ipv4-config-mode-select-ul\"] li >> nth=1 containing Cliente DHCP"}
+{"level":30,"time":"2024-07-05T15:50:23.871Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:23.877Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:23.877Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv4-config-mode-select-ul\"] li >> nth=2 in page."}
+{"level":30,"time":"2024-07-05T15:50:23.910Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element css=[data-testid=\"ipv4-config-mode-select-ul\"] li >> nth=2 containing PPPoE"}
+{"level":30,"time":"2024-07-05T15:50:23.917Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:23.926Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:23.927Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv4-config-mode-select-ul\"] li >> nth=2 in page."}
+{"level":30,"time":"2024-07-05T15:50:23.996Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:24.001Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:24.001Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with [data-testid=\"ipv4-config-mode-select-ul\"] in page."}
+{"level":30,"time":"2024-07-05T15:50:24.058Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:24.076Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-pppoe-mppe-toggle-title in page."}
+{"level":30,"time":"2024-07-05T15:50:24.116Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:24.156Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:24.174Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-pppoe-mppe-toggle in page."}
+{"level":30,"time":"2024-07-05T15:50:24.257Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:24.279Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-pppoe-service-name-input-title in page."}
+{"level":30,"time":"2024-07-05T15:50:24.320Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:24.329Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:24.329Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-pppoe-service-name-input in page."}
+{"level":30,"time":"2024-07-05T15:50:24.364Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element data-testid=ipv4-pppoe-service-name-input containing "}
+{"level":30,"time":"2024-07-05T15:50:24.364Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:24.373Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:24.373Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-pppoe-service-name-input in page."}
+{"level":30,"time":"2024-07-05T15:50:24.474Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:24.488Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-pppoe-username-input-title in page."}
+{"level":30,"time":"2024-07-05T15:50:24.526Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element data-testid=ipv4-pppoe-username-input-title containing Usuário"}
+{"level":30,"time":"2024-07-05T15:50:24.531Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:24.540Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:24.540Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-pppoe-username-input in page."}
+{"level":30,"time":"2024-07-05T15:50:24.605Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:24.613Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-pppoe-username-input in page."}
+{"level":30,"time":"2024-07-05T15:50:24.689Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:24.714Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:24.714Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-pppoe-password-input-title in page."}
+{"level":30,"time":"2024-07-05T15:50:24.838Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:24.846Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:24.846Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-pppoe-password-input in page."}
+{"level":30,"time":"2024-07-05T15:50:24.914Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element data-testid=ipv4-pppoe-password-input containing "}
+{"level":30,"time":"2024-07-05T15:50:24.914Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:24.922Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:24.922Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-pppoe-password-input in page."}
+{"level":30,"time":"2024-07-05T15:50:25.023Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:25.043Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:25.043Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"root\"]/div[3]/div/div[2]/div[7]/div/span[2] >> svg in page."}
+{"level":30,"time":"2024-07-05T15:50:25.101Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:25.119Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-clone-mac-address-toggle-title in page."}
+{"level":30,"time":"2024-07-05T15:50:25.189Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:25.199Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:25.199Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-clone-mac-address-toggle in page."}
+{"level":30,"time":"2024-07-05T15:50:25.268Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:25.274Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:25.274Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-mtu-input-title in page."}
+{"level":30,"time":"2024-07-05T15:50:25.297Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:25.316Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:25.316Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-mtu-input in page."}
+{"level":30,"time":"2024-07-05T15:50:25.382Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:25.400Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-vlan-toggle-title in page."}
+{"level":30,"time":"2024-07-05T15:50:25.480Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:25.498Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-vlan-toggle in page."}
+{"level":30,"time":"2024-07-05T15:50:25.610Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:25.630Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"root\"]/div[3]/div/div[3]/button in page."}
+{"level":30,"time":"2024-07-05T15:50:25.697Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element xpath=//*[@id=\"root\"]/div[3]/div/div[3]/button containing Salvar"}
+{"level":30,"time":"2024-07-05T15:50:25.711Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:25.739Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:25.756Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:25.761Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:25.765Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:25.772Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getBoolProperty"}
+{"level":30,"time":"2024-07-05T15:50:25.773Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-clone-mac-address-toggle in page."}
+{"level":30,"time":"2024-07-05T15:50:25.815Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved dom property for element data-testid=ipv4-clone-mac-address-toggle containing false"}
+{"level":30,"time":"2024-07-05T15:50:25.819Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getBoolProperty"}
+{"level":30,"time":"2024-07-05T15:50:25.829Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:25.829Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"root\"]/div[3]/div/div[2]/div[1]/div[2]/div[2]/label in page."}
+{"level":30,"time":"2024-07-05T15:50:25.928Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:25.933Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"unparsed args: e => e.checked, data-testid=ipv4-clone-mac-address-toggle, {}"}
+{"level":30,"time":"2024-07-05T15:50:25.933Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-clone-mac-address-toggle in page."}
+{"level":30,"time":"2024-07-05T15:50:25.979Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:25.979Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-clone-mac-address-input-title in page."}
+{"level":30,"time":"2024-07-05T15:50:26.031Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element data-testid=ipv4-clone-mac-address-input-title containing Endereço MAC"}
+{"level":30,"time":"2024-07-05T15:50:26.039Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:26.045Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:26.045Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-clone-mac-address-input in page."}
+{"level":30,"time":"2024-07-05T15:50:26.078Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element data-testid=ipv4-clone-mac-address-input containing d8:36:5f:eb:4b:65"}
+{"level":30,"time":"2024-07-05T15:50:26.078Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:26.125Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-clone-mac-address-input in page."}
+{"level":30,"time":"2024-07-05T15:50:26.257Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:26.262Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getBoolProperty"}
+{"level":30,"time":"2024-07-05T15:50:26.262Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-vlan-toggle in page."}
+{"level":30,"time":"2024-07-05T15:50:26.310Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getBoolProperty"}
+{"level":30,"time":"2024-07-05T15:50:26.313Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:26.314Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"root\"]/div[3]/div/div[2]/div[10]/div[2]/label in page."}
+{"level":30,"time":"2024-07-05T15:50:26.377Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:26.384Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"unparsed args: e => e.checked, data-testid=ipv4-vlan-toggle, {}"}
+{"level":30,"time":"2024-07-05T15:50:26.384Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-vlan-toggle in page."}
+{"level":30,"time":"2024-07-05T15:50:26.429Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-vlan-id-input-title in page."}
+{"level":30,"time":"2024-07-05T15:50:26.495Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element data-testid=ipv4-vlan-id-input-title containing VLAN ID"}
+{"level":30,"time":"2024-07-05T15:50:26.495Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:26.501Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-vlan-id-input in page."}
+{"level":30,"time":"2024-07-05T15:50:26.577Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:26.591Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:26.617Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:26.624Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:26.628Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:26.638Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:26.638Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-config-mode-select-ul in page."}
+{"level":30,"time":"2024-07-05T15:50:26.684Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:26.710Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:26.711Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-config-mode-select in page."}
+{"level":30,"time":"2024-07-05T15:50:26.813Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:26.820Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElements"}
+{"level":30,"time":"2024-07-05T15:50:26.821Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is disabled, return Locator: css=[data-testid=\"ipv4-config-mode-select-ul\"] li in page."}
+{"level":30,"time":"2024-07-05T15:50:26.821Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Wait element to reach attached state."}
+{"level":30,"time":"2024-07-05T15:50:26.850Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElements"}
+{"level":30,"time":"2024-07-05T15:50:26.864Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:26.865Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-config-mode-select-ul in page."}
+{"level":30,"time":"2024-07-05T15:50:26.930Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:26.943Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElements"}
+{"level":30,"time":"2024-07-05T15:50:26.943Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is disabled, return Locator: css=[data-testid=\"ipv4-config-mode-select-ul\"] li in page."}
+{"level":30,"time":"2024-07-05T15:50:26.943Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Wait element to reach attached state."}
+{"level":30,"time":"2024-07-05T15:50:26.962Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Found 3 elements."}
+{"level":30,"time":"2024-07-05T15:50:26.962Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElements"}
+{"level":30,"time":"2024-07-05T15:50:26.971Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:26.974Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv4-config-mode-select-ul\"] li >> nth=0 in page."}
+{"level":30,"time":"2024-07-05T15:50:27.004Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element css=[data-testid=\"ipv4-config-mode-select-ul\"] li >> nth=0 containing IP Estático"}
+{"level":30,"time":"2024-07-05T15:50:27.004Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:27.015Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:27.016Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv4-config-mode-select-ul\"] li >> nth=0 in page."}
+{"level":30,"time":"2024-07-05T15:50:27.094Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:27.099Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:27.099Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with [data-testid=\"ipv4-config-mode-select-ul\"] in page."}
+{"level":30,"time":"2024-07-05T15:50:27.157Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:27.168Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-config-mode-select-ul in page."}
+{"level":30,"time":"2024-07-05T15:50:27.271Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:27.286Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-config-mode-select in page."}
+{"level":30,"time":"2024-07-05T15:50:27.371Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:27.375Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is disabled, return Locator: css=[data-testid=\"ipv4-config-mode-select-ul\"] li in page."}
+{"level":30,"time":"2024-07-05T15:50:27.375Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Wait element to reach attached state."}
+{"level":30,"time":"2024-07-05T15:50:27.375Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElements"}
+{"level":30,"time":"2024-07-05T15:50:27.396Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method g{"level":30,"time":"2024-07-05T15:50:27.402Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv4-config-mode-select-ul\"] li >> nth=0 in page."}
+{"level":30,"time":"2024-07-05T15:50:27.402Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:27.443Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:27.456Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:27.456Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv4-config-mode-select-ul\"] li >> nth=1 in page."}
+{"level":30,"time":"2024-07-05T15:50:27.504Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:27.513Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:27.513Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv4-config-mode-select-ul\"] li >> nth=1 in page."}
+{"level":30,"time":"2024-07-05T15:50:27.603Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:27.612Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with [data-testid=\"ipv4-config-mode-select-ul\"] in page."}
+{"level":30,"time":"2024-07-05T15:50:27.662Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:27.685Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-config-mode-select-ul in page."}
+{"level":30,"time":"2024-07-05T15:50:27.778Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:27.794Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:27.795Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv4-config-mode-select in page."}
+{"level":30,"time":"2024-07-05T15:50:27.894Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:27.902Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is disabled, return Loc{"level":30,"time":"2024-07-05T15:50:27.902Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Wait element to reach attached state."}
+{"level":30,"time":"2024-07-05T15:50:27.915Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElements"}
+{"level":30,"time":"2024-07-05T15:50:27.922Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:27.922Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv4-config-mode-select-ul\"] li >> nth=0 in page."}
+{"level":30,"time":"2024-07-05T15:50:27.965Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element css=[data-testid=\"ipv4-config-mode-select-ul\"] li >> nth=0 containing IP Estático"}
+{"level":30,"time":"2024-07-05T15:50:27.967Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:27.981Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv4-config-mode-select-ul\"] li >> nth=1 in page."}
+{"level":30,"time":"2024-07-05T15:50:28.029Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element css=[data-testid=\"ipv4-config-mode-select-ul\"] li >> nth=1 containing Cliente DHCP"}
+{"level":30,"time":"2024-07-05T15:50:28.029Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:28.044Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:28.045Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv4-config-mode-select-ul\"] li >> nth=2 in page."}
+{"level":30,"time":"2024-07-05T15:50:28.070Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element css=[data-testid=\"ipv4-config-mode-select-ul\"] li >> nth=2 containing PPPoE"}
+{"level":30,"time":"2024-07-05T15:50:28.070Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:28.075Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:28.075Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv4-config-mode-select-ul\"] li >> nth=2 in page."}
+{"level":30,"time":"2024-07-05T15:50:28.142Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:28.147Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:28.147Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with [data-testid=\"ipv4-config-mode-select-ul\"] in page."}
+{"level":30,"time":"2024-07-05T15:50:28.203Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:28.212Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:28.223Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:28.233Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:28.247Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:28.261Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-settings-button in page."}
+{"level":30,"time":"2024-07-05T15:50:28.378Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:28.392Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:28.392Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-link-local-title in page."}
+{"level":30,"time":"2024-07-05T15:50:28.468Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element data-testid=ipv6-link-local-title containing Link-local:"}
+{"level":30,"time":"2024-07-05T15:50:28.475Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:28.488Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:28.488Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-link-local in page."}
+{"level":30,"time":"2024-07-05T15:50:28.554Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:28.559Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:28.559Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-config-mode-select-title in page."}
+{"level":30,"time":"2024-07-05T15:50:28.605Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element data-testid=ipv6-config-mode-select-title containing Tipo de configuração"}
+{"level":30,"time":"2024-07-05T15:50:28.605Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:28.622Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-config-mode-input in page."}
+{"level":30,"time":"2024-07-05T15:50:28.690Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:28.708Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-config-mode-select in page."}
+{"level":30,"time":"2024-07-05T15:50:28.792Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:28.800Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:28.801Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-config-mode-input in page."}
+{"level":30,"time":"2024-07-05T15:50:28.876Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is disabled, re{"level":30,"time":"2024-07-05T15:50:28.876Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Wait element to reach attached state."}
+{"level":30,"time":"2024-07-05T15:50:28.876Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElements"}
+{"level":30,"time":"2024-07-05T15:50:28.887Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Found 4 elements."}
+{"level":30,"time":"2024-07-05T15:50:28.887Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElements"}
+{"level":30,"time":"2024-07-05T15:50:28.895Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:28.895Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=0 in page."}
+{"level":30,"time":"2024-07-05T15:50:28.913Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:28.921Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:28.922Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=1 in page."}
+{"level":30,"time":"2024-07-05T15:50:28.955Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=1 containing Manual"}
+{"level":30,"time":"2024-07-05T15:50:28.956Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:28.959Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:28.959Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=1 in page."}
+{"level":30,"time":"2024-07-05T15:50:29.044Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:29.068Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with [data-testid=\"ipv4-config-mode-select-ul\"] in page."}
+{"level":30,"time":"2024-07-05T15:50:29.318Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:29.327Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:29.327Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-manual-ip-address-input-title in page."}
+{"level":30,"time":"2024-07-05T15:50:29.379Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:29.386Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:29.386Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-manual-ip-address-input in page."}
+{"level":30,"time":"2024-07-05T15:50:29.420Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element data-testid=ipv6-manual-ip-address-input containing "}
+{"level":30,"time":"2024-07-05T15:50:29.420Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:29.428Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:29.428Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-manual-ip-address-input in page."}
+{"level":30,"time":"2024-07-05T15:50:29.502Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:29.509Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:29.509Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-manual-prefix-length-input-title in page."}
+{"level":30,"time":"2024-07-05T15:50:29.567Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:29.581Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-manual-prefix-length-input in page."}
+{"level":30,"time":"2024-07-05T15:50:29.631Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element data-testid=ipv6-manual-prefix-length-input containing "}
+{"level":30,"time":"2024-07-05T15:50:29.631Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:29.644Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-manual-prefix-length-input in page."}
+{"level":30,"time":"2024-07-05T15:50:29.719Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:29.725Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:29.725Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-manual-gateway-input-title in page."}
+{"level":30,"time":"2024-07-05T15:50:29.781Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:29.794Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:29.794Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-manual-gateway-input in page."}
+{"level":30,"time":"2024-07-05T15:50:29.836Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element data-testid=ipv6-manual-gateway-input containing ::"}
+{"level":30,"time":"2024-07-05T15:50:29.837Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:29.855Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-manual-gateway-input in page."}
+{"level":30,"time":"2024-07-05T15:50:29.925Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:29.936Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:29.936Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"root\"]/div[3]/div/div[3]/button in page."}
+{"level":30,"time":"2024-07-05T15:50:29.970Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:29.984Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:29.995Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:30.012Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:30.021Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:30.029Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-config-mode-select in page."}
+{"level":30,"time":"2024-07-05T15:50:30.112Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:30.120Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:30.120Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-config-mode-input in page."}
+{"level":30,"time":"2024-07-05T15:50:30.187Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:30.193Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElements"}
+{"level":30,"time":"2024-07-05T15:50:30.193Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Wait element to reach attached state."}
+{"level":30,"time":"2024-07-05T15:50:30.209Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Found 4 elements."}
+{"level":30,"time":"2024-07-05T15:50:30.209Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElements"}
+{"level":30,"time":"2024-07-05T15:50:30.224Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:30.224Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-config-mode-select in page."}
+{"level":30,"time":"2024-07-05T15:50:30.307Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:30.317Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElements"}
+{"level":30,"time":"2024-07-05T15:50:30.317Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is disabled, return Locator: css=[data-testid=\"ipv6-config-mode-select\"] li in page."}
+{"level":30,"time":"2024-07-05T15:50:30.318Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Wait element to reach attached state."}
+{"level":30,"time":"2024-07-05T15:50:30.330Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Found 4 elements."}
+{"level":30,"time":"2024-07-05T15:50:30.330Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElements"}
+{"level":30,"time":"2024-07-05T15:50:30.337Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:30.337Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=0 in page."}
+{"level":30,"time":"2024-07-05T15:50:30.366Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:30.371Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:30.371Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=0 in page."}
+{"level":30,"time":"2024-07-05T15:50:30.421Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:30.425Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:30.425Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with [data-testid=\"ipv4-config-mode-select-ul\"] in page."}
+{"level":30,"time":"2024-07-05T15:50:30.675Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:30.687Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:30.687Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-config-mode-select in page."}
+{"level":30,"time":"2024-07-05T15:50:30.799Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:30.808Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-config-mode-input in page."}
+{"level":30,"time":"2024-07-05T15:50:30.902Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:30.911Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElements"}
+{"level":30,"time":"2024-07-05T15:50:30.911Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is disabled, return Locator: css=[data-testid=\"ipv6-config-mode-select\"] li in page."}
+{"level":30,"time":"2024-07-05T15:50:30.911Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Wait element to reach attached state."}
+{"level":30,"time":"2024-07-05T15:50:30.930Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Found 4 elements."}
+{"level":30,"time":"2024-07-05T15:50:30.930Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElements"}
+{"level":30,"time":"2024-07-05T15:50:30.937Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:30.940Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=0 in page."}
+{"level":30,"time":"2024-07-05T15:50:30.968Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:30.977Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:30.977Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=1 in page."}
+{"level":30,"time":"2024-07-05T15:50:31.024Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=1 containing Manual"}
+{"level":30,"time":"2024-07-05T15:50:31.024Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:31.028Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:31.028Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=1 in page."}
+{"level":30,"time":"2024-07-05T15:50:31.133Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with [data-testid=\"ipv4-config-mode-select-ul\"] in page."}
+{"level":30,"time":"2024-07-05T15:50:31.133Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:31.384Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:31.394Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:31.394Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-config-mode-select in page."}
+{"level":30,"time":"2024-07-05T15:50:31.446Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:31.451Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:31.451Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-config-mode-input in page."}
+{"level":30,"time":"2024-07-05T15:50:31.498Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:31.505Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Wait element to reach attached state."}
+{"level":30,"time":"2024-07-05T15:50:31.505Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElements"}
+{"level":30,"time":"2024-07-05T15:50:31.526Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Found 4 elements."}
+{"level":30,"time":"2024-07-05T15:50:31.526Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElements"}
+{"level":30,"time":"2024-07-05T15:50:31.532Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:31.532Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=0 in page."}
+{"level":30,"time":"2024-07-05T15:50:31.559Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:31.566Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:31.566Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=1 in page."}
+{"level":30,"time":"2024-07-05T15:50:31.598Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=1 containing Manual"}
+{"level":30,"time":"2024-07-05T15:50:31.603Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:31.614Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:31.614Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=2 in page."}
+{"level":30,"time":"2024-07-05T15:50:31.649Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:31.654Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:31.654Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=2 in page."}
+{"level":30,"time":"2024-07-05T15:50:31.731Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:31.741Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:31.741Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with [data-testid=\"ipv4-config-mode-select-ul\"] in page."}
+{"level":30,"time":"2024-07-05T15:50:31.991Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:32.001Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:32.001Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-config-mode-select in page."}
+{"level":30,"time":"2024-07-05T15:50:32.059Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:32.064Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with data-testid=ipv6-config-mode-input in page."}
+{"level":30,"time":"2024-07-05T15:50:32.128Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:32.134Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Wait element to reach attached state."}
+{"level":30,"time":"2024-07-05T15:50:32.153Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Found 4 elements."}
+{"level":30,"time":"2024-07-05T15:50:32.153Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElements"}
+{"level":30,"time":"2024-07-05T15:50:32.158Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:32.158Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=0 in page."}
+{"level":30,"time":"2024-07-05T15:50:32.174Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=0 containing Desativado"}
+{"level":30,"time":"2024-07-05T15:50:32.174Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:32.190Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=1 in page."}
+{"level":30,"time":"2024-07-05T15:50:32.212Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=1 containing Manual"}
+{"level":30,"time":"2024-07-05T15:50:32.212Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:32.232Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=2 in page."}
+{"level":30,"time":"2024-07-05T15:50:32.285Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=2 containing Automático"}
+{"level":30,"time":"2024-07-05T15:50:32.285Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:32.295Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:32.296Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=3 in page."}
+{"level":30,"time":"2024-07-05T15:50:32.338Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Retrieved text for element css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=3 containing Link-local"}
+{"level":30,"time":"2024-07-05T15:50:32.338Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getText"}
+{"level":30,"time":"2024-07-05T15:50:32.343Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:32.343Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with css=[data-testid=\"ipv6-config-mode-select\"] li >> nth=3 in page."}
+{"level":30,"time":"2024-07-05T15:50:32.427Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:32.431Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with [data-testid=\"ipv4-config-mode-select-ul\"] in page."}
+{"level":30,"time":"2024-07-05T15:50:32.683Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getElementStates"}
+{"level":30,"time":"2024-07-05T15:50:32.689Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:32.689Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"root\"]/div[2]/div[2]/div/div[3]/div[2]/div[2] in page."}
+{"level":30,"time":"2024-07-05T15:50:32.825Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:32.832Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-07-05T15:50:32.833Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"root\"]/div[2]/div[2]/div/div[3]/div[3] in page."}
+{"level":30,"time":"2024-07-05T15:50:32.845Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-07-05T15:50:32.848Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:32.848Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"root\"]/div[2]/div[2]/div/div[3]/div[3]/div/a[6] in page."}
+{"level":30,"time":"2024-07-05T15:50:32.968Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:32.982Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"overlay-cntse\"]/div/div/div[3]/div/button[2] in page."}
+{"level":30,"time":"2024-07-05T15:50:32.996Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"overlay-cntse\"]/div/div/div[3]/div/button[2] in page."}
+{"level":30,"time":"2024-07-05T15:50:32.996Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method click"}
+{"level":30,"time":"2024-07-05T15:50:33.071Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method click"}
+{"level":30,"time":"2024-07-05T15:50:34.079Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method waitUntilNetworkIsIdle"}
+{"level":30,"time":"2024-07-05T15:50:35.740Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method waitUntilNetworkIsIdle"}
+{"level":30,"time":"2024-07-05T15:50:35.749Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:35.761Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:35.776Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:35.778Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:35.781Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:35.788Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:35.792Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Changed active context"}
+{"level":30,"time":"2024-07-05T15:50:35.792Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Changing current active page: page=200485bb-8e7d-4147-8946-d4cfa8d9fe42"}
+{"level":30,"time":"2024-07-05T15:50:35.792Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Changed active page"}
+{"level":30,"time":"2024-07-05T15:50:35.827Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:35.832Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:35.837Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-07-05T15:50:35.838Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-07-05T15:50:35.843Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-07-05T15:50:35.844Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-07-05T15:50:35.847Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Changing current active page: page=200485bb-8e7d-4147-8946-d4cfa8d9fe42"}
+{"level":30,"time":"2024-07-05T15:50:35.847Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Changed active page"}
+{"level":30,"time":"2024-07-05T15:50:35.869Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:35.875Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-07-05T15:50:35.881Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Changed active context"}
+{"level":30,"time":"2024-07-05T15:50:35.881Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Changing current active page: page=200485bb-8e7d-4147-8946-d4cfa8d9fe42"}
+{"level":30,"time":"2024-07-05T15:50:35.882Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Changed active page"}
+{"level":30,"time":"2024-07-05T15:50:35.907Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-07-05T15:50:35.951Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Removed page=45a9deee-7551-4eb0-9d69-03b20b9f9a55 from context=14c6c800-4670-41bc-9e97-9d33960bf5fb page stack"}
+{"level":30,"time":"2024-07-05T15:50:36.034Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-07-05T15:50:36.449Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2024-07-05T15:50:36.654Z","pid":292640,"hostname":"Leonel-PC-Linux","msg":"End of node method closeAllBrowsers"}
