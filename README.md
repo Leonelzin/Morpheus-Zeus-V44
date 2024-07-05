@@ -1,2 +1,22 @@
-# Morpheus-Zeus-V44
-The "Morpheus V4" repository is a collection of scripts and tools developed by the Zeus team at Intelbras to support enterprise networking. The repository includes code written in Python, utilizing the Robot Framework and Selenium, for automating network testing and administration tasks.
+Install pyenv (https://github.com/pyenv/pyenv)
+Install python version 3.11.2: pyenv install 3.11.2
+
+Install poetry (https://python-poetry.org/)
+install robotframework-browser dependencies:
+
+
+node.js (https://nodejs.org/en/download)
+access project root directory, run:
+pyenv local 3.11.2
+poetry config virtualenvs.in-project true
+poetry install
+poetry shell
+rfbrowser init
+
+To run tests:
+
+adjust resources/common.resource (DUT username, passwords, IPv4 address)
+go to project root directory
+activate python virtual environment: poetry shell
+
+run: robot -d reports/ -i<TAG> -vGLOBAL_DEBUG_BROWSER:true .
